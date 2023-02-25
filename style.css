@@ -1,0 +1,76 @@
+* {
+    background-color: rgb(207, 226, 226);
+}
+
+h1 {
+    font-size: 40px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #0c66ee71;
+    text-align: center;
+}
+
+.paragrafo-principal {
+    font-family: 'Times New Roman', Times, serif;
+    font-size:  26px;
+    color: #0b35f3b0;
+    text-align: center;
+    font-weight: bold;
+}
+
+.primeiro-paragrafo {
+    font-weight: bold;
+    font-size: 30px;
+    font-style: italic;
+}
+
+
+.conteudo p {
+    color: rgb(5, 5, 5);
+}
+
+.titulo:hover {
+   font-size: 39px;
+   background-color:rgba(90, 87, 230, 0.377);
+   font-family: 'Times New Roman', Times, serif;
+   text-decoration: none;
+}
+
+.titulo {
+    font-size: 30px;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.tabela {
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    font-weight: 500;
+    background-color: #0bf317b0;
+}
+
+.tabela h2 {
+    color: rgb(201, 27, 27);
+}
+
+li {
+    font-size: 22px;
+    color: rgb(43, 42, 14);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 500;
+}
+
+footer {
+    text-align: center;
+    color: red;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding-top: 10px;
+}
+
+#rdh {
+    padding: 0.5em 0.5em 2em 0;
+}
+
+#queen {
+    padding: 0.5em 0.5em 2em 0;
+}
